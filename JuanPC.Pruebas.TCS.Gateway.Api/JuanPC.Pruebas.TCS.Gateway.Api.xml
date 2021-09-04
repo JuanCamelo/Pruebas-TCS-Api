@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JuanPC.Pruebas.TCS.Gateway.Api</name>
+    </assembly>
+    <members>
+        <member name="M:JuanPC.Pruebas.TCS.Gateway.Api.Controllers.LoginController.LoginUser(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="user"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JuanPC.Pruebas.TCS.Gateway.Api.Controllers.WordCountController.ValidWordCount(System.String)">
+            <summary>
+            Valida la cantidad de veces que se repite una letra 
+            </summary>
+            <param name="text"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

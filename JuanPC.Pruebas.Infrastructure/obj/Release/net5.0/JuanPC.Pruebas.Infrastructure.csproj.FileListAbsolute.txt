@@ -1,0 +1,15 @@
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\bin\Release\net5.0\JuanPC.Pruebas.Infrastructure.deps.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\bin\Release\net5.0\JuanPC.Pruebas.Infrastructure.dll
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\bin\Release\net5.0\ref\JuanPC.Pruebas.Infrastructure.dll
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\bin\Release\net5.0\JuanPC.Pruebas.Infrastructure.pdb
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\bin\Release\net5.0\JuanPC.Pruebas.TCS.Core.dll
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\bin\Release\net5.0\JuanPC.Pruebas.TCS.Core.pdb
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\obj\Release\net5.0\JuanPC.Pruebas.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\obj\Release\net5.0\JuanPC.Pruebas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\obj\Release\net5.0\JuanPC.Pruebas.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\obj\Release\net5.0\JuanPC.Pruebas.Infrastructure.AssemblyInfo.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\obj\Release\net5.0\JuanPC.Pruebas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\obj\Release\net5.0\JuanPC.Pruebas.Infrastructure.csproj.CopyComplete
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\obj\Release\net5.0\JuanPC.Pruebas.Infrastructure.dll
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\obj\Release\net5.0\ref\JuanPC.Pruebas.Infrastructure.dll
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.Infrastructure\obj\Release\net5.0\JuanPC.Pruebas.Infrastructure.pdb

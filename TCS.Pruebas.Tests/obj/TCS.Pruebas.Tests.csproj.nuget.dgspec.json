@@ -1,0 +1,325 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\TCS.Pruebas.Tests\\TCS.Pruebas.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.Infrastructure\\JuanPC.Pruebas.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.Infrastructure\\JuanPC.Pruebas.Infrastructure.csproj",
+        "projectName": "JuanPC.Pruebas.Infrastructure",
+        "projectPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.Infrastructure\\JuanPC.Pruebas.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Core\\JuanPC.Pruebas.TCS.Core.csproj": {
+                "projectPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Core\\JuanPC.Pruebas.TCS.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Core\\JuanPC.Pruebas.TCS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Core\\JuanPC.Pruebas.TCS.Core.csproj",
+        "projectName": "JuanPC.Pruebas.TCS.Core",
+        "projectPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Core\\JuanPC.Pruebas.TCS.Core.csproj",
+        "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "OpheliaSuiteV2.Core.SSB.Lib": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.12.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Gateway.Api\\JuanPC.Pruebas.TCS.Gateway.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Gateway.Api\\JuanPC.Pruebas.TCS.Gateway.Api.csproj",
+        "projectName": "JuanPC.Pruebas.TCS.Gateway.Api",
+        "projectPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Gateway.Api\\JuanPC.Pruebas.TCS.Gateway.Api.csproj",
+        "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Gateway.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.Infrastructure\\JuanPC.Pruebas.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.Infrastructure\\JuanPC.Pruebas.Infrastructure.csproj"
+              },
+              "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Core\\JuanPC.Pruebas.TCS.Core.csproj": {
+                "projectPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Core\\JuanPC.Pruebas.TCS.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\TCS.Pruebas.Tests\\TCS.Pruebas.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\TCS.Pruebas.Tests\\TCS.Pruebas.Tests.csproj",
+        "projectName": "TCS.Pruebas.Tests",
+        "projectPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\TCS.Pruebas.Tests\\TCS.Pruebas.Tests.csproj",
+        "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\TCS.Pruebas.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Core\\JuanPC.Pruebas.TCS.Core.csproj": {
+                "projectPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Core\\JuanPC.Pruebas.TCS.Core.csproj"
+              },
+              "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Gateway.Api\\JuanPC.Pruebas.TCS.Gateway.Api.csproj": {
+                "projectPath": "C:\\Users\\JUAN\\source\\repos\\Proyecto.JuanPC.Pruebas.TCS\\JuanPC.Pruebas.TCS.Gateway.Api\\JuanPC.Pruebas.TCS.Gateway.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
