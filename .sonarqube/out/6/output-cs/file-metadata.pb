@@ -1,0 +1,15 @@
+}
+tC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Controllers\LoginController.csutf-8Å
+xC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Controllers\WordCountController.csutf-8ê
+ÜC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Core\DependencyInjection\AppBuilderExtensions.csutf-8ä
+ÄC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Core\DependencyInjection\Authentication.csutf-8§
+öC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Core\DependencyInjection\ConfigurationServiceCollectionExtensions.csutf-8ó
+çC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Core\DependencyInjection\SwaggerCollectionExtensions.csutf-8u
+lC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Models\ErrorDetails.csutf-8v
+mC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Polices\ScopeHandler.csutf-8z
+qC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Polices\ScopeRequirement.csutf-8i
+`C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Program.csutf-8i
+`C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Startup.csutf-8°
+ïC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8°
+ïC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\obj\Debug\net5.0\JuanPC.Pruebas.TCS.Gateway.Api.AssemblyInfo.csutf-8¥
+®C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\obj\Debug\net5.0\JuanPC.Pruebas.TCS.Gateway.Api.MvcApplicationPartsAssemblyInfo.csutf-8

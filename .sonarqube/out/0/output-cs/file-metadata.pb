@@ -1,0 +1,11 @@
+
+vC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\Login\Contracts\ILoginApp.csutf-8{
+rC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\Login\LoginAppService.csutf-8}
+tC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\Login\Model\AppSettings.csutf-8y
+pC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\Login\Model\UserDTO.csutf-8Ñ
+{C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\WordCount\Contracts\IWordCount.csutf-8è
+ÖC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\WordCount\Models\RequesValidWordCountDTO.csutf-8É
+zC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\WordCount\WordCountAppService.csutf-8m
+dC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Domain\Models\User.csutf-8ö
+éC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8ì
+áC:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\obj\Debug\net5.0\JuanPC.Pruebas.TCS.Core.AssemblyInfo.csutf-8

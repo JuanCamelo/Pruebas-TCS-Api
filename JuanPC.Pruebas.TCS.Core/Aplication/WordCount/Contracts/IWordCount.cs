@@ -9,6 +9,7 @@ namespace JuanPC.Pruebas.TCS.Core.NewFolder
 {
     public interface IWordCount
     {
+
         RequestResult<dynamic> ValidWordCount( string text);
     }
 }

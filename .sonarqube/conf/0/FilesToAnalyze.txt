@@ -1,0 +1,8 @@
+﻿C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\Login\Contracts\ILoginApp.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\Login\LoginAppService.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\Login\Model\AppSettings.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\Login\Model\UserDTO.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\WordCount\Contracts\IWordCount.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\WordCount\Models\RequesValidWordCountDTO.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Aplication\WordCount\WordCountAppService.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Core\Domain\Models\User.cs

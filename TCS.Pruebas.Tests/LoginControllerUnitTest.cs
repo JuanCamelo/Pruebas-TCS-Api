@@ -7,7 +7,7 @@ using OpheliaSuiteV2.Core.SSB.Lib.Models;
 
 namespace TCS.Pruebas.Tests
 {
-    [TestClass]    
+    [TestClass]   
     public class LoginControllerUnitTest
     {
         private LoginController loginController;

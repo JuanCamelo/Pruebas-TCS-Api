@@ -1,0 +1,26 @@
+﻿C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Controllers\LoginController.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Controllers\WordCountController.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Core\DependencyInjection\AppBuilderExtensions.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Core\DependencyInjection\Authentication.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Core\DependencyInjection\ConfigurationServiceCollectionExtensions.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Core\DependencyInjection\SwaggerCollectionExtensions.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Models\ErrorDetails.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Polices\ScopeHandler.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Polices\ScopeRequirement.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Program.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Startup.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\obj\Debug\net5.0\JuanPC.Pruebas.TCS.Gateway.Api.AssemblyInfo.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\obj\Debug\net5.0\JuanPC.Pruebas.TCS.Gateway.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\appsettings.Development.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\appsettings.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\JuanPC.Pruebas.TCS.Gateway.Api.xml
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Properties\launchSettings.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Properties\serviceDependencies.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Properties\serviceDependencies.JuanPCPruebasTCSGatewayApi - Web Deploy.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Properties\serviceDependencies.PruebasJuanTCS - Web Deploy.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Properties\ServiceDependencies\JuanPCPruebasTCSGatewayApi - Web Deploy\apis1.arm.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Properties\ServiceDependencies\JuanPCPruebasTCSGatewayApi - Web Deploy\profile.arm.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Properties\ServiceDependencies\PruebasJuanTCS - Web Deploy\apis1.arm.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Properties\ServiceDependencies\PruebasJuanTCS - Web Deploy\profile.arm.json
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\JuanPC.Pruebas.TCS.Gateway.Api\Properties\PublishProfiles\JuanPCPruebasTCSGatewayApi - Web Deploy.pubxml

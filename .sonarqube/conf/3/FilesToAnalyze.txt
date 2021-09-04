@@ -1,0 +1,10 @@
+﻿C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\TCS.Pruebas.Tests\LoginControllerUnitTest.cs
+C:\Users\JUAN\source\repos\Proyecto.JuanPC.Pruebas.TCS\TCS.Pruebas.Tests\WordCountUnitTests.cs
+C:\Users\JUAN\.nuget\packages\microsoft.net.test.sdk\16.9.4\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\JUAN\.nuget\packages\microsoft.testplatform.testhost\16.9.4\build\netcoreapp2.1\x64\testhost.exe
+C:\Users\JUAN\.nuget\packages\microsoft.testplatform.testhost\16.9.4\build\netcoreapp2.1\x64\testhost.dll
+C:\Users\JUAN\.nuget\packages\microsoft.testplatform.testhost\16.9.4\build\netcoreapp2.1\x64\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\JUAN\.nuget\packages\mstest.testadapter\2.2.3\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JUAN\.nuget\packages\mstest.testadapter\2.2.3\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JUAN\.nuget\packages\mstest.testadapter\2.2.3\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JUAN\.nuget\packages\mstest.testadapter\2.2.3\build\netcoreapp1.0\Microsoft.TestPlatform.AdapterUtilities.dll
