@@ -5,11 +5,13 @@ using JuanPC.Pruebas.TCS.Core.NewFolder;
 using JuanPC.Pruebas.TCS.Gateway.Api.Polices;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.DependencyInjection;
+using System.Diagnostics.CodeAnalysis;
 
 namespace JuanPC.Pruebas.TCS.Gateway.Api.Core.DependencyInjection
 {
     public static class ConfigurationServiceCollectionExtensions
     {
+        [ExcludeFromCodeCoverage]
         public static IServiceCollection AddConfigurationServices(this IServiceCollection services)
         {
             services.AddSingleton<IAuthorizationHandler, ScopeHandler>();

@@ -4,6 +4,7 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using OpheliaSuiteV2.Core.SSB.Lib.Models;
 using System;
+using System.Diagnostics.CodeAnalysis;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -34,6 +35,7 @@ namespace JuanPC.Pruebas.TCS.Core.Aplication.Commands.Login
         /// </summary>
         /// <param name="user"></param>
         /// <returns></returns>
+        [ExcludeFromCodeCoverage]
         private string GetToken(Users user)
         {
             var tokenHandler = new JwtSecurityTokenHandler();

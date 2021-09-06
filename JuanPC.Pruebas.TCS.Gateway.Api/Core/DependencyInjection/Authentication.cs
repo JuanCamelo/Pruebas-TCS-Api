@@ -3,12 +3,14 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
+using System.Diagnostics.CodeAnalysis;
 using System.Text;
 
 namespace JuanPC.Pruebas.TCS.Gateway.Api.Core.DependencyInjection
 {
-    public static class Authentication
-    {
+    [ExcludeFromCodeCoverage]
+    public static class Authentication    {
+        
         public static IServiceCollection AddAuthentication(this IServiceCollection services, IConfiguration configuration)
         {
             

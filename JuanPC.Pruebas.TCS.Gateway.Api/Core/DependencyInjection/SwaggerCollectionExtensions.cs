@@ -1,11 +1,13 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 using System;
+using System.Diagnostics.CodeAnalysis;
 using System.IO;
 using System.Reflection;
 
 namespace JuanPC.Pruebas.TCS.Gateway.Api.Core.DependencyInjection
 {
+    [ExcludeFromCodeCoverage]
     public static class SwaggerCollectionExtensions
     {
         public static IServiceCollection AddSwagger(this IServiceCollection services)

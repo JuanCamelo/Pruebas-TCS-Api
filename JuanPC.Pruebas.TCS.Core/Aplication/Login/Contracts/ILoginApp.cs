@@ -1,10 +1,5 @@
 ﻿using JuanPC.Pruebas.TCS.Core.Aplication.Commands.Login.ModelDTO;
 using OpheliaSuiteV2.Core.SSB.Lib.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace JuanPC.Pruebas.TCS.Core.Aplication.Commands.Login.Contracts
 {

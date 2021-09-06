@@ -1,11 +1,13 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace JuanPC.Pruebas.TCS.Gateway.Api.Polices
 {
+    [ExcludeFromCodeCoverage]
     public class ScopeRequirement :IAuthorizationRequirement
     {
         public string Issuer { get; set; }

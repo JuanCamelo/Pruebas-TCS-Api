@@ -2,10 +2,12 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Http;
+using System.Diagnostics.CodeAnalysis;
 using System.Net;
 
 namespace JuanPC.Pruebas.TCS.Gateway.Api.Core.DependencyInjection
 {
+    [ExcludeFromCodeCoverage]
     public static class AppBuilderExtensions
     {
         public static IApplicationBuilder AddSwaggerCollection(this IApplicationBuilder app)

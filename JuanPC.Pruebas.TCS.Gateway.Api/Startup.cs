@@ -4,11 +4,14 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using System.Diagnostics.CodeAnalysis;
 
 namespace JuanPC.Pruebas.TCS.Gateway.Api
 {
+    [ExcludeFromCodeCoverage]
     public class Startup
     {
+        
         #region Properties
         public IConfiguration _configuration { get; }
         #endregion

@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Authorization;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace JuanPC.Pruebas.TCS.Gateway.Api.Polices
 {
+    [ExcludeFromCodeCoverage]
     public class ScopeHandler : AuthorizationHandler<ScopeRequirement>
     {
         protected override Task HandleRequirementAsync(AuthorizationHandlerContext context, ScopeRequirement requirement)

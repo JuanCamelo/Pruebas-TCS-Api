@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using OpheliaSuiteV2.Core.SSB.Lib.Models;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace JuanPC.Pruebas.TCS.Core
@@ -15,7 +16,7 @@ namespace JuanPC.Pruebas.TCS.Core
         #endregion
 
         #region Builders
-       
+
         #endregion
 
         #region Methods
@@ -28,71 +29,50 @@ namespace JuanPC.Pruebas.TCS.Core
         {
             try
             {
-                
+
                 #region variables
                 int contador = 0;
-                int indexPosition = 0;
+                string palabra = null;
                 List<RequesValidWordCountDto> addRequestDTO = new List<RequesValidWordCountDto>();
                 #endregion
 
                 if (text == null)
-                   return RequestResult<dynamic>.CreateUnsuccessful(new string[] { "Debe ingresar al menos un carácter" });
-                
+                    return RequestResult<dynamic>.CreateUnsuccessful(new string[] { "Debe ingresar al menos un carácter" });
 
-                string resultext =  RemoveCharacterSpecials(text);
-
-                for (int i = 0; i <= resultext.Length; i++)
+                String[] palabras = text.Split(" ");
+                for (int i = 0; i < palabras.Length; i++)
                 {
-                    string validChar = resultext.Substring(0, 1);
-                    contador = 0;
-                    indexPosition = 0;
-                    while (indexPosition != -1)
+
+                    if (addRequestDTO.Any(x => x.chararter.Equals(palabras[i])) == false)
                     {
-                        indexPosition = text.IndexOf(validChar, indexPosition);
-                        if (indexPosition >= 0)
+                        palabra = null;
+                        for (int j = 0; j < palabras.Length; j++)
                         {
-                            contador++;
-                            indexPosition++;
+                            if (palabras[i].CompareTo(palabras[j]) == 0)
+                            {
+                                contador++;
+                                palabra = palabras[j];
+                            }
                         }
+                        addRequestDTO.Add(new RequesValidWordCountDto
+                        {
+                            countChar = contador++,
+                            chararter = palabra
+                        }); ;
+                        contador = 0;
                     }
-                    addRequestDTO.Add(new  RequesValidWordCountDto
-                    {
-                        countChar = contador,
-                        chararter = validChar
-                    });
-                    resultext = resultext.Replace(validChar, "");
-                    i = 0;
+
                 }
                 return RequestResult<dynamic>.CreateSuccessful(addRequestDTO);
             }
             catch (Exception error)
             {
 
-               return RequestResult<dynamic>.CreateError(error.Message);
+                return RequestResult<dynamic>.CreateError(error.Message);
             }
         }
-       
+
         #endregion
 
-        #region Private
-        /// <summary>
-        /// Validacion 
-        /// </summary>
-        /// <param name="descripcion"></param>
-        /// <returns></returns>
-        private static string RemoveCharacterSpecials(string descripcion = "")
-        {
-            string output = "";
-            if (descripcion != null)
-            {                
-                string trim = descripcion.Replace(" ", "");
-                trim = trim.Replace(",", "");
-                trim = trim.Replace(".", "");
-                output = trim;
-            }
-
-            return output.Trim();
-        }
-        #endregion
     }
 }
