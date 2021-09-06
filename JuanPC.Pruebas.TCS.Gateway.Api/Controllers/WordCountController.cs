@@ -28,7 +28,7 @@ namespace JuanPC.Pruebas.TCS.Gateway.Api.Controllers
         /// <param name="text"></param>
         /// <returns></returns>
         [HttpGet]
-       // [Authorize]
+        [Authorize]
         [Route(nameof(WordCountController.ValidWordCount))]
         public RequestResult<dynamic> ValidWordCount(string text)
             => _wordCount.ValidWordCount(text);

@@ -53,6 +53,7 @@ namespace JuanPC.Pruebas.TCS.Gateway.Api
             {
                 option.AllowAnyHeader();
                 option.AllowAnyMethod();
+                option.AllowAnyOrigin();
             });
 
             app.UseHttpsRedirection();

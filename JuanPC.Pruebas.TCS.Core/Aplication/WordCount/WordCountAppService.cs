@@ -43,7 +43,7 @@ namespace JuanPC.Pruebas.TCS.Core
                 for (int i = 0; i < palabras.Length; i++)
                 {
 
-                    if (addRequestDTO.Any(x => x.chararter.Equals(palabras[i])) == false)
+                    if (!addRequestDTO.Any(x => x.chararter.Equals(palabras[i])))
                     {
                         palabra = null;
                         for (int j = 0; j < palabras.Length; j++)
@@ -56,9 +56,9 @@ namespace JuanPC.Pruebas.TCS.Core
                         }
                         addRequestDTO.Add(new RequesValidWordCountDto
                         {
-                            countChar = contador++,
+                            countChar = contador,
                             chararter = palabra
-                        }); ;
+                        });
                         contador = 0;
                     }
 
